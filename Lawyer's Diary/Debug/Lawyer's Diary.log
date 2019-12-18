@@ -1,0 +1,6 @@
+﻿  Lawyer's Diary.cpp
+C:\Users\sudra\source\repos\Lawyer's Diary\Lawyer's Diary\Lawyer's Diary.cpp(206,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sudra\source\repos\Lawyer's Diary\Lawyer's Diary\Lawyer's Diary.cpp(240,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sudra\source\repos\Lawyer's Diary\Lawyer's Diary\Lawyer's Diary.cpp(260,8): warning C4552: '-': result of expression not used
+C:\Users\sudra\source\repos\Lawyer's Diary\Lawyer's Diary\Lawyer's Diary.cpp(273,19): warning C4018: '<': signed/unsigned mismatch
+  Lawyer's Diary.vcxproj -> C:\Users\sudra\source\repos\Lawyer's Diary\Debug\Lawyer's Diary.exe
