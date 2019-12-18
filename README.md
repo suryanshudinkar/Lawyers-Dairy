@@ -5,7 +5,7 @@ Lawyer’s Diary is a password protected console application. It is a digital le
 ## Note
 **For the first time use:**</br>
 ***Username -> admin</br>
-Password -> 1234.***</br>
+Password -> 1234***</br>
 **MAKE SURE (debug/LawyersDiary.exe) AND (debug/hii.txt) ARE PLACED IN SAME FOLDER.**</br></br>
 ## Features
 <ol>
