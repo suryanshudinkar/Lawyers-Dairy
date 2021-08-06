@@ -1,6 +1,6 @@
-# Lawyer's-Diary
+# Legal Diary
 
-Lawyer’s Diary is a password-protected console application. It is a digital legal diary. User can keep details of their clients. You can change username or password at any moment.</br></br>
+Legal Diary is a password-protected console application. It is a digital legal diary. User can keep details of their clients. You can change username or password at any moment.</br></br>
 **This project is the implementation of Memory Optimized Trie using Hashmap.**</br></br>
 ## Note
 **-> For the first time use:**</br>
